@@ -1,0 +1,3 @@
+/home/arrma/Downloads/nanopi_examples/example_19_spi/build/CMakeFiles/example_19_spi.dir
+/home/arrma/Downloads/nanopi_examples/example_19_spi/build/CMakeFiles/edit_cache.dir
+/home/arrma/Downloads/nanopi_examples/example_19_spi/build/CMakeFiles/rebuild_cache.dir
